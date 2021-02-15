@@ -1,0 +1,28 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+ // Defining a variable
+
+  body {
+     background: gray; // Using this variable
+  }
+
+  .banner {
+   background: red;
+   height:200px;
+   padding-left: 50px;
+  }
+
+  .inbetween {
+   height: 20px;
+   }
+
+  h1 {
+    font-family: Arial sans-serif;
+    font-size: 50px;
+  }
+
+  a {
+   color: grey;
+   text-decoration: none;
+  }
